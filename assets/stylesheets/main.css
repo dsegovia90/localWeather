@@ -1,3 +1,29 @@
 body {
 	background-color: #2a929e;
+	color: white;
+	margin-top: 100px;
+}
+
+#intro-div {
+	margin-bottom: 50px;
+}
+
+h1 {
+	font-size: 400%;
+}
+
+#madeBy-div {
+	margin-top: 50px;
+}
+
+a {
+	color: silver;
+}
+
+#icon-div {
+	margin-top: 25px;
+}
+
+#clouds {
+	text-transform: capitalize;
 }
